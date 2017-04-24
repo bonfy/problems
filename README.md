@@ -15,3 +15,4 @@ Record problems I have met and solved, for details see [Issues](https://github.c
 1. [load session and cookies from Selenium browser to requests library in Python](https://github.com/bonfy/problems/issues/9)
 1. [Problems in Travis-ci](https://github.com/bonfy/problems/issues/10)
 1. [Python的进制转换 及 位运算](https://github.com/bonfy/problems/issues/11)
+1. [Python中的ABC类](https://github.com/bonfy/problems/issues/12)
